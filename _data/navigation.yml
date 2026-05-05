@@ -1,0 +1,15 @@
+main:
+  - title: "Overview"
+    url: /#section-overview
+
+  - title: "News"
+    url: /#section-news
+
+  - title: "Awards"
+    url: /#section-awards
+
+  - title: "Publications"
+    url: /#section-pubs
+
+  - title: "Visitor"
+    url: /#section-visitor
